@@ -1,0 +1,4232 @@
+{
+    "0": {
+    "Age": 21,
+    "Player": "Precious Achiuwa",
+    "Position": "PF",
+    "Teams": "MIA"
+    },
+    "1": {
+    "Age": 24,
+    "Player": "Jaylen Adams",
+    "Position": "PG",
+    "Teams": "MIL"
+    },
+    "2": {
+    "Age": 27,
+    "Player": "Steven Adams",
+    "Position": "C",
+    "Teams": "NOP"
+    },
+    "3": {
+    "Age": 23,
+    "Player": "Bam Adebayo",
+    "Position": "C",
+    "Teams": "MIA"
+    },
+    "4": {
+    "Age": 35,
+    "Player": "LaMarcus Aldridge",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "5": {
+    "Age": 35,
+    "Player": "LaMarcus Aldridge",
+    "Position": "C",
+    "Teams": "SAS"
+    },
+    "6": {
+    "Age": 35,
+    "Player": "LaMarcus Aldridge",
+    "Position": "C",
+    "Teams": "BRK"
+    },
+    "7": {
+    "Age": 22,
+    "Player": "Ty-Shon Alexander",
+    "Position": "SG",
+    "Teams": "PHO"
+    },
+    "8": {
+    "Age": 22,
+    "Player": "Nickeil Alexander-Walker",
+    "Position": "SG",
+    "Teams": "NOP"
+    },
+    "9": {
+    "Age": 25,
+    "Player": "Grayson Allen",
+    "Position": "SG",
+    "Teams": "MEM"
+    },
+    "10": {
+    "Age": 22,
+    "Player": "Jarrett Allen",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "11": {
+    "Age": 22,
+    "Player": "Jarrett Allen",
+    "Position": "C",
+    "Teams": "BRK"
+    },
+    "12": {
+    "Age": 22,
+    "Player": "Jarrett Allen",
+    "Position": "C",
+    "Teams": "CLE"
+    },
+    "13": {
+    "Age": 30,
+    "Player": "Al-Farouq Aminu",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "14": {
+    "Age": 30,
+    "Player": "Al-Farouq Aminu",
+    "Position": "PF",
+    "Teams": "ORL"
+    },
+    "15": {
+    "Age": 30,
+    "Player": "Al-Farouq Aminu",
+    "Position": "PF",
+    "Teams": "CHI"
+    },
+    "16": {
+    "Age": 27,
+    "Player": "Kyle Anderson",
+    "Position": "PF",
+    "Teams": "MEM"
+    },
+    "17": {
+    "Age": 26,
+    "Player": "Giannis Antetokounmpo",
+    "Position": "PF",
+    "Teams": "MIL"
+    },
+    "18": {
+    "Age": 23,
+    "Player": "Kostas Antetokounmpo",
+    "Position": "PF",
+    "Teams": "LAL"
+    },
+    "19": {
+    "Age": 28,
+    "Player": "Thanasis Antetokounmpo",
+    "Position": "SF",
+    "Teams": "MIL"
+    },
+    "20": {
+    "Age": 36,
+    "Player": "Carmelo Anthony",
+    "Position": "PF",
+    "Teams": "POR"
+    },
+    "21": {
+    "Age": 20,
+    "Player": "Cole Anthony",
+    "Position": "PG",
+    "Teams": "ORL"
+    },
+    "22": {
+    "Age": 23,
+    "Player": "OG Anunoby",
+    "Position": "SF",
+    "Teams": "TOR"
+    },
+    "23": {
+    "Age": 26,
+    "Player": "Ryan Arcidiacono",
+    "Position": "PG",
+    "Teams": "CHI"
+    },
+    "24": {
+    "Age": 35,
+    "Player": "Trevor Ariza",
+    "Position": "SF",
+    "Teams": "MIA"
+    },
+    "25": {
+    "Age": 33,
+    "Player": "D.J. Augustin",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "26": {
+    "Age": 33,
+    "Player": "D.J. Augustin",
+    "Position": "PG",
+    "Teams": "MIL"
+    },
+    "27": {
+    "Age": 33,
+    "Player": "D.J. Augustin",
+    "Position": "PG",
+    "Teams": "HOU"
+    },
+    "28": {
+    "Age": 20,
+    "Player": "Deni Avdija",
+    "Position": "SF",
+    "Teams": "WAS"
+    },
+    "29": {
+    "Age": 22,
+    "Player": "Deandre Ayton",
+    "Position": "C",
+    "Teams": "PHO"
+    },
+    "30": {
+    "Age": 21,
+    "Player": "Udoka Azubuike",
+    "Position": "C",
+    "Teams": "UTA"
+    },
+    "31": {
+    "Age": 25,
+    "Player": "Dwayne Bacon",
+    "Position": "SG",
+    "Teams": "ORL"
+    },
+    "32": {
+    "Age": 21,
+    "Player": "Marvin Bagley III",
+    "Position": "PF",
+    "Teams": "SAC"
+    },
+    "33": {
+    "Age": 19,
+    "Player": "LaMelo Ball",
+    "Position": "PG",
+    "Teams": "CHO"
+    },
+    "34": {
+    "Age": 23,
+    "Player": "Lonzo Ball",
+    "Position": "PG",
+    "Teams": "NOP"
+    },
+    "35": {
+    "Age": 22,
+    "Player": "Mo Bamba",
+    "Position": "C",
+    "Teams": "ORL"
+    },
+    "36": {
+    "Age": 22,
+    "Player": "Desmond Bane",
+    "Position": "SG",
+    "Teams": "MEM"
+    },
+    "37": {
+    "Age": 28,
+    "Player": "Harrison Barnes",
+    "Position": "PF",
+    "Teams": "SAC"
+    },
+    "38": {
+    "Age": 20,
+    "Player": "RJ Barrett",
+    "Position": "SG",
+    "Teams": "NYK"
+    },
+    "39": {
+    "Age": 30,
+    "Player": "Will Barton",
+    "Position": "SF",
+    "Teams": "DEN"
+    },
+    "40": {
+    "Age": 25,
+    "Player": "Keita Bates-Diop",
+    "Position": "SF",
+    "Teams": "SAS"
+    },
+    "41": {
+    "Age": 32,
+    "Player": "Nicolas Batum",
+    "Position": "SF",
+    "Teams": "LAC"
+    },
+    "42": {
+    "Age": 34,
+    "Player": "Aron Baynes",
+    "Position": "C",
+    "Teams": "TOR"
+    },
+    "43": {
+    "Age": 31,
+    "Player": "Kent Bazemore",
+    "Position": "SF",
+    "Teams": "GSW"
+    },
+    "44": {
+    "Age": 20,
+    "Player": "Darius Bazley",
+    "Position": "PF",
+    "Teams": "OKC"
+    },
+    "45": {
+    "Age": 27,
+    "Player": "Bradley Beal",
+    "Position": "SG",
+    "Teams": "WAS"
+    },
+    "46": {
+    "Age": 24,
+    "Player": "Malik Beasley",
+    "Position": "SG",
+    "Teams": "MIN"
+    },
+    "47": {
+    "Age": 26,
+    "Player": "Jordan Bell",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "48": {
+    "Age": 26,
+    "Player": "Jordan Bell",
+    "Position": "C",
+    "Teams": "WAS"
+    },
+    "49": {
+    "Age": 26,
+    "Player": "Jordan Bell",
+    "Position": "C",
+    "Teams": "GSW"
+    },
+    "50": {
+    "Age": 26,
+    "Player": "DeAndre' Bembry",
+    "Position": "SF",
+    "Teams": "TOR"
+    },
+    "51": {
+    "Age": 28,
+    "Player": "Dāvis Bertāns",
+    "Position": "PF",
+    "Teams": "WAS"
+    },
+    "52": {
+    "Age": 32,
+    "Player": "Patrick Beverley",
+    "Position": "PG",
+    "Teams": "LAC"
+    },
+    "53": {
+    "Age": 21,
+    "Player": "Saddiq Bey",
+    "Position": "SF",
+    "Teams": "DET"
+    },
+    "54": {
+    "Age": 22,
+    "Player": "Tyler Bey",
+    "Position": "SF",
+    "Teams": "DAL"
+    },
+    "55": {
+    "Age": 28,
+    "Player": "Khem Birch",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "56": {
+    "Age": 28,
+    "Player": "Khem Birch",
+    "Position": "C",
+    "Teams": "ORL"
+    },
+    "57": {
+    "Age": 28,
+    "Player": "Khem Birch",
+    "Position": "C",
+    "Teams": "TOR"
+    },
+    "58": {
+    "Age": 21,
+    "Player": "Goga Bitadze",
+    "Position": "C",
+    "Teams": "IND"
+    },
+    "59": {
+    "Age": 28,
+    "Player": "Bismack Biyombo",
+    "Position": "C",
+    "Teams": "CHO"
+    },
+    "60": {
+    "Age": 32,
+    "Player": "Nemanja Bjelica",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "61": {
+    "Age": 32,
+    "Player": "Nemanja Bjelica",
+    "Position": "PF",
+    "Teams": "SAC"
+    },
+    "62": {
+    "Age": 32,
+    "Player": "Nemanja Bjelica",
+    "Position": "PF",
+    "Teams": "MIA"
+    },
+    "63": {
+    "Age": 31,
+    "Player": "Eric Bledsoe",
+    "Position": "SG",
+    "Teams": "NOP"
+    },
+    "64": {
+    "Age": 25,
+    "Player": "Keljin Blevins",
+    "Position": "SF",
+    "Teams": "POR"
+    },
+    "65": {
+    "Age": 28,
+    "Player": "Bogdan Bogdanović",
+    "Position": "SG",
+    "Teams": "ATL"
+    },
+    "66": {
+    "Age": 31,
+    "Player": "Bojan Bogdanović",
+    "Position": "SF",
+    "Teams": "UTA"
+    },
+    "67": {
+    "Age": 21,
+    "Player": "Bol Bol",
+    "Position": "PF",
+    "Teams": "DEN"
+    },
+    "68": {
+    "Age": 22,
+    "Player": "Marques Bolden",
+    "Position": "C",
+    "Teams": "CLE"
+    },
+    "69": {
+    "Age": 23,
+    "Player": "Jordan Bone",
+    "Position": "PG",
+    "Teams": "ORL"
+    },
+    "70": {
+    "Age": 21,
+    "Player": "Isaac Bonga",
+    "Position": "SF",
+    "Teams": "WAS"
+    },
+    "71": {
+    "Age": 24,
+    "Player": "Devin Booker",
+    "Position": "SG",
+    "Teams": "PHO"
+    },
+    "72": {
+    "Age": 28,
+    "Player": "Chris Boucher",
+    "Position": "C",
+    "Teams": "TOR"
+    },
+    "73": {
+    "Age": 22,
+    "Player": "Brian Bowen",
+    "Position": "SF",
+    "Teams": "IND"
+    },
+    "74": {
+    "Age": 30,
+    "Player": "Avery Bradley",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "75": {
+    "Age": 30,
+    "Player": "Avery Bradley",
+    "Position": "SG",
+    "Teams": "MIA"
+    },
+    "76": {
+    "Age": 30,
+    "Player": "Avery Bradley",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "77": {
+    "Age": 23,
+    "Player": "Tony Bradley",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "78": {
+    "Age": 23,
+    "Player": "Tony Bradley",
+    "Position": "C",
+    "Teams": "PHI"
+    },
+    "79": {
+    "Age": 23,
+    "Player": "Tony Bradley",
+    "Position": "C",
+    "Teams": "OKC"
+    },
+    "80": {
+    "Age": 24,
+    "Player": "Jarrell Brantley",
+    "Position": "PF",
+    "Teams": "UTA"
+    },
+    "81": {
+    "Age": 22,
+    "Player": "Ignas Brazdeikis",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "82": {
+    "Age": 22,
+    "Player": "Ignas Brazdeikis",
+    "Position": "SF",
+    "Teams": "NYK"
+    },
+    "83": {
+    "Age": 22,
+    "Player": "Ignas Brazdeikis",
+    "Position": "SF",
+    "Teams": "PHI"
+    },
+    "84": {
+    "Age": 22,
+    "Player": "Ignas Brazdeikis",
+    "Position": "SF",
+    "Teams": "ORL"
+    },
+    "85": {
+    "Age": 24,
+    "Player": "Mikal Bridges",
+    "Position": "SF",
+    "Teams": "PHO"
+    },
+    "86": {
+    "Age": 22,
+    "Player": "Miles Bridges",
+    "Position": "PF",
+    "Teams": "CHO"
+    },
+    "87": {
+    "Age": 26,
+    "Player": "Amida Brimah",
+    "Position": "C",
+    "Teams": "IND"
+    },
+    "88": {
+    "Age": 22,
+    "Player": "Oshae Brissett",
+    "Position": "SF",
+    "Teams": "IND"
+    },
+    "89": {
+    "Age": 28,
+    "Player": "Malcolm Brogdon",
+    "Position": "PG",
+    "Teams": "IND"
+    },
+    "90": {
+    "Age": 22,
+    "Player": "Armoni Brooks",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "91": {
+    "Age": 25,
+    "Player": "Dillon Brooks",
+    "Position": "SF",
+    "Teams": "MEM"
+    },
+    "92": {
+    "Age": 24,
+    "Player": "Bruce Brown",
+    "Position": "PG",
+    "Teams": "BRK"
+    },
+    "93": {
+    "Age": 23,
+    "Player": "Charlie Brown Jr.",
+    "Position": "SG",
+    "Teams": "OKC"
+    },
+    "94": {
+    "Age": 24,
+    "Player": "Jaylen Brown",
+    "Position": "SG",
+    "Teams": "BOS"
+    },
+    "95": {
+    "Age": 21,
+    "Player": "Moses Brown",
+    "Position": "C",
+    "Teams": "OKC"
+    },
+    "96": {
+    "Age": 25,
+    "Player": "Sterling Brown",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "97": {
+    "Age": 21,
+    "Player": "Troy Brown Jr.",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "98": {
+    "Age": 21,
+    "Player": "Troy Brown Jr.",
+    "Position": "SF",
+    "Teams": "WAS"
+    },
+    "99": {
+    "Age": 21,
+    "Player": "Troy Brown Jr.",
+    "Position": "SF",
+    "Teams": "CHI"
+    },
+    "100": {
+    "Age": 24,
+    "Player": "Jalen Brunson",
+    "Position": "PG",
+    "Teams": "DAL"
+    },
+    "101": {
+    "Age": 25,
+    "Player": "Elijah Bryant",
+    "Position": "SG",
+    "Teams": "MIL"
+    },
+    "102": {
+    "Age": 23,
+    "Player": "Thomas Bryant",
+    "Position": "C",
+    "Teams": "WAS"
+    },
+    "103": {
+    "Age": 29,
+    "Player": "Reggie Bullock",
+    "Position": "SF",
+    "Teams": "NYK"
+    },
+    "104": {
+    "Age": 28,
+    "Player": "Trey Burke",
+    "Position": "PG",
+    "Teams": "DAL"
+    },
+    "105": {
+    "Age": 29,
+    "Player": "Alec Burks",
+    "Position": "SG",
+    "Teams": "NYK"
+    },
+    "106": {
+    "Age": 31,
+    "Player": "Jimmy Butler",
+    "Position": "SF",
+    "Teams": "MIA"
+    },
+    "107": {
+    "Age": 25,
+    "Player": "Bruno Caboclo",
+    "Position": "PF",
+    "Teams": "HOU"
+    },
+    "108": {
+    "Age": 24,
+    "Player": "Devontae Cacok",
+    "Position": "PF",
+    "Teams": "LAL"
+    },
+    "109": {
+    "Age": 27,
+    "Player": "Kentavious Caldwell-Pope",
+    "Position": "SG",
+    "Teams": "LAL"
+    },
+    "110": {
+    "Age": 29,
+    "Player": "Facundo Campazzo",
+    "Position": "PG",
+    "Teams": "DEN"
+    },
+    "111": {
+    "Age": 23,
+    "Player": "Vlatko Čančar",
+    "Position": "PF",
+    "Teams": "DEN"
+    },
+    "112": {
+    "Age": 24,
+    "Player": "Devin Cannady",
+    "Position": "PG",
+    "Teams": "ORL"
+    },
+    "113": {
+    "Age": 26,
+    "Player": "Clint Capela",
+    "Position": "C",
+    "Teams": "ATL"
+    },
+    "114": {
+    "Age": 19,
+    "Player": "Vernon Carey Jr.",
+    "Position": "C",
+    "Teams": "CHO"
+    },
+    "115": {
+    "Age": 25,
+    "Player": "Jevon Carter",
+    "Position": "PG",
+    "Teams": "PHO"
+    },
+    "116": {
+    "Age": 21,
+    "Player": "Wendell Carter Jr.",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "117": {
+    "Age": 21,
+    "Player": "Wendell Carter Jr.",
+    "Position": "C",
+    "Teams": "CHI"
+    },
+    "118": {
+    "Age": 21,
+    "Player": "Wendell Carter Jr.",
+    "Position": "C",
+    "Teams": "ORL"
+    },
+    "119": {
+    "Age": 29,
+    "Player": "Michael Carter-Williams",
+    "Position": "SG",
+    "Teams": "ORL"
+    },
+    "120": {
+    "Age": 26,
+    "Player": "Alex Caruso",
+    "Position": "PG",
+    "Teams": "LAL"
+    },
+    "121": {
+    "Age": 27,
+    "Player": "Willie Cauley-Stein",
+    "Position": "C",
+    "Teams": "DAL"
+    },
+    "122": {
+    "Age": 25,
+    "Player": "Chris Chiozza",
+    "Position": "PG",
+    "Teams": "BRK"
+    },
+    "123": {
+    "Age": 23,
+    "Player": "Marquese Chriss",
+    "Position": "PF",
+    "Teams": "GSW"
+    },
+    "124": {
+    "Age": 26,
+    "Player": "Gary Clark",
+    "Position": "SF-PF",
+    "Teams": "TOT"
+    },
+    "125": {
+    "Age": 26,
+    "Player": "Gary Clark",
+    "Position": "SF",
+    "Teams": "ORL"
+    },
+    "126": {
+    "Age": 26,
+    "Player": "Gary Clark",
+    "Position": "SF",
+    "Teams": "DEN"
+    },
+    "127": {
+    "Age": 26,
+    "Player": "Gary Clark",
+    "Position": "PF",
+    "Teams": "PHI"
+    },
+    "128": {
+    "Age": 24,
+    "Player": "Brandon Clarke",
+    "Position": "PF",
+    "Teams": "MEM"
+    },
+    "129": {
+    "Age": 28,
+    "Player": "Jordan Clarkson",
+    "Position": "SG",
+    "Teams": "UTA"
+    },
+    "130": {
+    "Age": 21,
+    "Player": "Nic Claxton",
+    "Position": "C",
+    "Teams": "BRK"
+    },
+    "131": {
+    "Age": 23,
+    "Player": "Amir Coffey",
+    "Position": "SG",
+    "Teams": "LAC"
+    },
+    "132": {
+    "Age": 23,
+    "Player": "John Collins",
+    "Position": "PF",
+    "Teams": "ATL"
+    },
+    "133": {
+    "Age": 33,
+    "Player": "Mike Conley",
+    "Position": "PG",
+    "Teams": "UTA"
+    },
+    "134": {
+    "Age": 28,
+    "Player": "Pat Connaughton",
+    "Position": "SG",
+    "Teams": "MIL"
+    },
+    "135": {
+    "Age": 27,
+    "Player": "Quinn Cook",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "136": {
+    "Age": 27,
+    "Player": "Quinn Cook",
+    "Position": "PG",
+    "Teams": "LAL"
+    },
+    "137": {
+    "Age": 27,
+    "Player": "Quinn Cook",
+    "Position": "PG",
+    "Teams": "CLE"
+    },
+    "138": {
+    "Age": 23,
+    "Player": "Tyler Cook",
+    "Position": "SF-PF",
+    "Teams": "TOT"
+    },
+    "139": {
+    "Age": 23,
+    "Player": "Tyler Cook",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "140": {
+    "Age": 23,
+    "Player": "Tyler Cook",
+    "Position": "SF",
+    "Teams": "DET"
+    },
+    "141": {
+    "Age": 30,
+    "Player": "DeMarcus Cousins",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "142": {
+    "Age": 30,
+    "Player": "DeMarcus Cousins",
+    "Position": "C",
+    "Teams": "HOU"
+    },
+    "143": {
+    "Age": 30,
+    "Player": "DeMarcus Cousins",
+    "Position": "C",
+    "Teams": "LAC"
+    },
+    "144": {
+    "Age": 30,
+    "Player": "Robert Covington",
+    "Position": "PF",
+    "Teams": "POR"
+    },
+    "145": {
+    "Age": 30,
+    "Player": "Torrey Craig",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "146": {
+    "Age": 30,
+    "Player": "Torrey Craig",
+    "Position": "SF",
+    "Teams": "MIL"
+    },
+    "147": {
+    "Age": 30,
+    "Player": "Torrey Craig",
+    "Position": "SF",
+    "Teams": "PHO"
+    },
+    "148": {
+    "Age": 30,
+    "Player": "Jae Crowder",
+    "Position": "PF",
+    "Teams": "PHO"
+    },
+    "149": {
+    "Age": 21,
+    "Player": "Jarrett Culver",
+    "Position": "SG",
+    "Teams": "MIN"
+    },
+    "150": {
+    "Age": 30,
+    "Player": "Seth Curry",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "151": {
+    "Age": 32,
+    "Player": "Stephen Curry",
+    "Position": "PG",
+    "Teams": "GSW"
+    },
+    "152": {
+    "Age": 22,
+    "Player": "Nate Darling",
+    "Position": "SG",
+    "Teams": "CHO"
+    },
+    "153": {
+    "Age": 27,
+    "Player": "Anthony Davis",
+    "Position": "PF",
+    "Teams": "LAL"
+    },
+    "154": {
+    "Age": 31,
+    "Player": "Ed Davis",
+    "Position": "C",
+    "Teams": "MIN"
+    },
+    "155": {
+    "Age": 23,
+    "Player": "Terence Davis",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "156": {
+    "Age": 23,
+    "Player": "Terence Davis",
+    "Position": "SG",
+    "Teams": "TOR"
+    },
+    "157": {
+    "Age": 23,
+    "Player": "Terence Davis",
+    "Position": "SG",
+    "Teams": "SAC"
+    },
+    "158": {
+    "Age": 25,
+    "Player": "Gabriel Deck",
+    "Position": "PF",
+    "Teams": "OKC"
+    },
+    "159": {
+    "Age": 31,
+    "Player": "Dewayne Dedmon",
+    "Position": "C",
+    "Teams": "MIA"
+    },
+    "160": {
+    "Age": 30,
+    "Player": "Matthew Dellavedova",
+    "Position": "PG",
+    "Teams": "CLE"
+    },
+    "161": {
+    "Age": 31,
+    "Player": "DeMar DeRozan",
+    "Position": "PF",
+    "Teams": "SAS"
+    },
+    "162": {
+    "Age": 24,
+    "Player": "Mamadi Diakite",
+    "Position": "PF",
+    "Teams": "MIL"
+    },
+    "163": {
+    "Age": 22,
+    "Player": "Hamidou Diallo",
+    "Position": "SG-SF",
+    "Teams": "TOT"
+    },
+    "164": {
+    "Age": 22,
+    "Player": "Hamidou Diallo",
+    "Position": "SG",
+    "Teams": "OKC"
+    },
+    "165": {
+    "Age": 22,
+    "Player": "Hamidou Diallo",
+    "Position": "SF",
+    "Teams": "DET"
+    },
+    "166": {
+    "Age": 31,
+    "Player": "Gorgui Dieng",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "167": {
+    "Age": 31,
+    "Player": "Gorgui Dieng",
+    "Position": "C",
+    "Teams": "MEM"
+    },
+    "168": {
+    "Age": 31,
+    "Player": "Gorgui Dieng",
+    "Position": "C",
+    "Teams": "SAS"
+    },
+    "169": {
+    "Age": 27,
+    "Player": "Spencer Dinwiddie",
+    "Position": "SG",
+    "Teams": "BRK"
+    },
+    "170": {
+    "Age": 24,
+    "Player": "Donte DiVincenzo",
+    "Position": "SG",
+    "Teams": "MIL"
+    },
+    "171": {
+    "Age": 21,
+    "Player": "Luka Dončić",
+    "Position": "PG",
+    "Teams": "DAL"
+    },
+    "172": {
+    "Age": 21,
+    "Player": "Luguentz Dort",
+    "Position": "SG",
+    "Teams": "OKC"
+    },
+    "173": {
+    "Age": 26,
+    "Player": "Damyean Dotson",
+    "Position": "SG",
+    "Teams": "CLE"
+    },
+    "174": {
+    "Age": 21,
+    "Player": "Devon Dotson",
+    "Position": "PG",
+    "Teams": "CHI"
+    },
+    "175": {
+    "Age": 20,
+    "Player": "Sekou Doumbouya",
+    "Position": "PF",
+    "Teams": "DET"
+    },
+    "176": {
+    "Age": 24,
+    "Player": "PJ Dozier",
+    "Position": "SG",
+    "Teams": "DEN"
+    },
+    "177": {
+    "Age": 34,
+    "Player": "Goran Dragić",
+    "Position": "PG",
+    "Teams": "MIA"
+    },
+    "178": {
+    "Age": 27,
+    "Player": "Andre Drummond",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "179": {
+    "Age": 27,
+    "Player": "Andre Drummond",
+    "Position": "C",
+    "Teams": "CLE"
+    },
+    "180": {
+    "Age": 27,
+    "Player": "Andre Drummond",
+    "Position": "C",
+    "Teams": "LAL"
+    },
+    "181": {
+    "Age": 35,
+    "Player": "Jared Dudley",
+    "Position": "PF",
+    "Teams": "LAL"
+    },
+    "182": {
+    "Age": 26,
+    "Player": "Kris Dunn",
+    "Position": "PG",
+    "Teams": "ATL"
+    },
+    "183": {
+    "Age": 32,
+    "Player": "Kevin Durant",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "184": {
+    "Age": 19,
+    "Player": "Anthony Edwards",
+    "Position": "SG",
+    "Teams": "MIN"
+    },
+    "185": {
+    "Age": 22,
+    "Player": "Carsen Edwards",
+    "Position": "SG",
+    "Teams": "BOS"
+    },
+    "186": {
+    "Age": 20,
+    "Player": "CJ Elleby",
+    "Position": "SF",
+    "Teams": "POR"
+    },
+    "187": {
+    "Age": 24,
+    "Player": "Henry Ellenson",
+    "Position": "PF",
+    "Teams": "TOR"
+    },
+    "188": {
+    "Age": 33,
+    "Player": "Wayne Ellington",
+    "Position": "SG",
+    "Teams": "DET"
+    },
+    "189": {
+    "Age": 26,
+    "Player": "Joel Embiid",
+    "Position": "C",
+    "Teams": "PHI"
+    },
+    "190": {
+    "Age": 30,
+    "Player": "James Ennis III",
+    "Position": "SF",
+    "Teams": "ORL"
+    },
+    "191": {
+    "Age": 23,
+    "Player": "Drew Eubanks",
+    "Position": "C",
+    "Teams": "SAS"
+    },
+    "192": {
+    "Age": 25,
+    "Player": "Dante Exum",
+    "Position": "SG",
+    "Teams": "CLE"
+    },
+    "193": {
+    "Age": 25,
+    "Player": "Tacko Fall",
+    "Position": "C",
+    "Teams": "BOS"
+    },
+    "194": {
+    "Age": 29,
+    "Player": "Derrick Favors",
+    "Position": "C",
+    "Teams": "UTA"
+    },
+    "195": {
+    "Age": 28,
+    "Player": "Cristiano Felício",
+    "Position": "C",
+    "Teams": "CHI"
+    },
+    "196": {
+    "Age": 22,
+    "Player": "Terrance Ferguson",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "197": {
+    "Age": 22,
+    "Player": "Bruno Fernando",
+    "Position": "C",
+    "Teams": "ATL"
+    },
+    "198": {
+    "Age": 27,
+    "Player": "Yogi Ferrell",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "199": {
+    "Age": 27,
+    "Player": "Yogi Ferrell",
+    "Position": "PG",
+    "Teams": "CLE"
+    },
+    "200": {
+    "Age": 27,
+    "Player": "Yogi Ferrell",
+    "Position": "PG",
+    "Teams": "LAC"
+    },
+    "201": {
+    "Age": 27,
+    "Player": "Dorian Finney-Smith",
+    "Position": "PF",
+    "Teams": "DAL"
+    },
+    "202": {
+    "Age": 23,
+    "Player": "Malik Fitts",
+    "Position": "PF",
+    "Teams": "LAC"
+    },
+    "203": {
+    "Age": 22,
+    "Player": "Malachi Flynn",
+    "Position": "PG",
+    "Teams": "TOR"
+    },
+    "204": {
+    "Age": 27,
+    "Player": "Bryn Forbes",
+    "Position": "SG",
+    "Teams": "MIL"
+    },
+    "205": {
+    "Age": 22,
+    "Player": "Trent Forrest",
+    "Position": "PG",
+    "Teams": "UTA"
+    },
+    "206": {
+    "Age": 28,
+    "Player": "Evan Fournier",
+    "Position": "SF-SG",
+    "Teams": "TOT"
+    },
+    "207": {
+    "Age": 28,
+    "Player": "Evan Fournier",
+    "Position": "SF",
+    "Teams": "ORL"
+    },
+    "208": {
+    "Age": 28,
+    "Player": "Evan Fournier",
+    "Position": "SG",
+    "Teams": "BOS"
+    },
+    "209": {
+    "Age": 23,
+    "Player": "De'Aaron Fox",
+    "Position": "PG",
+    "Teams": "SAC"
+    },
+    "210": {
+    "Age": 24,
+    "Player": "Robert Franks",
+    "Position": "PF",
+    "Teams": "ORL"
+    },
+    "211": {
+    "Age": 30,
+    "Player": "Tim Frazier",
+    "Position": "PG",
+    "Teams": "MEM"
+    },
+    "212": {
+    "Age": 28,
+    "Player": "Enes Freedom",
+    "Position": "C",
+    "Teams": "POR"
+    },
+    "213": {
+    "Age": 22,
+    "Player": "Markelle Fultz",
+    "Position": "PG",
+    "Teams": "ORL"
+    },
+    "214": {
+    "Age": 23,
+    "Player": "Wenyen Gabriel",
+    "Position": "PF",
+    "Teams": "NOP"
+    },
+    "215": {
+    "Age": 22,
+    "Player": "Daniel Gafford",
+    "Position": "PF-C",
+    "Teams": "TOT"
+    },
+    "216": {
+    "Age": 22,
+    "Player": "Daniel Gafford",
+    "Position": "PF",
+    "Teams": "CHI"
+    },
+    "217": {
+    "Age": 22,
+    "Player": "Daniel Gafford",
+    "Position": "C",
+    "Teams": "WAS"
+    },
+    "218": {
+    "Age": 32,
+    "Player": "Danilo Gallinari",
+    "Position": "PF",
+    "Teams": "ATL"
+    },
+    "219": {
+    "Age": 29,
+    "Player": "Langston Galloway",
+    "Position": "SG",
+    "Teams": "PHO"
+    },
+    "220": {
+    "Age": 21,
+    "Player": "Darius Garland",
+    "Position": "PG",
+    "Teams": "CLE"
+    },
+    "221": {
+    "Age": 36,
+    "Player": "Marc Gasol",
+    "Position": "C",
+    "Teams": "LAL"
+    },
+    "222": {
+    "Age": 34,
+    "Player": "Rudy Gay",
+    "Position": "PF",
+    "Teams": "SAS"
+    },
+    "223": {
+    "Age": 30,
+    "Player": "Paul George",
+    "Position": "SF",
+    "Teams": "LAC"
+    },
+    "224": {
+    "Age": 35,
+    "Player": "Taj Gibson",
+    "Position": "C",
+    "Teams": "NYK"
+    },
+    "225": {
+    "Age": 22,
+    "Player": "Harry Giles",
+    "Position": "C",
+    "Teams": "POR"
+    },
+    "226": {
+    "Age": 22,
+    "Player": "Shai Gilgeous-Alexander",
+    "Position": "SG",
+    "Teams": "OKC"
+    },
+    "227": {
+    "Age": 28,
+    "Player": "Anthony Gill",
+    "Position": "PF",
+    "Teams": "WAS"
+    },
+    "228": {
+    "Age": 23,
+    "Player": "Freddie Gillespie",
+    "Position": "PF",
+    "Teams": "TOR"
+    },
+    "229": {
+    "Age": 28,
+    "Player": "Rudy Gobert",
+    "Position": "C",
+    "Teams": "UTA"
+    },
+    "230": {
+    "Age": 25,
+    "Player": "Brandon Goodwin",
+    "Position": "PG",
+    "Teams": "ATL"
+    },
+    "231": {
+    "Age": 25,
+    "Player": "Aaron Gordon",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "232": {
+    "Age": 25,
+    "Player": "Aaron Gordon",
+    "Position": "PF",
+    "Teams": "ORL"
+    },
+    "233": {
+    "Age": 25,
+    "Player": "Aaron Gordon",
+    "Position": "PF",
+    "Teams": "DEN"
+    },
+    "234": {
+    "Age": 32,
+    "Player": "Eric Gordon",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "235": {
+    "Age": 25,
+    "Player": "Devonte' Graham",
+    "Position": "PG",
+    "Teams": "CHO"
+    },
+    "236": {
+    "Age": 26,
+    "Player": "Jerami Grant",
+    "Position": "SF",
+    "Teams": "DET"
+    },
+    "237": {
+    "Age": 33,
+    "Player": "Danny Green",
+    "Position": "SF",
+    "Teams": "PHI"
+    },
+    "238": {
+    "Age": 30,
+    "Player": "Draymond Green",
+    "Position": "PF",
+    "Teams": "GSW"
+    },
+    "239": {
+    "Age": 30,
+    "Player": "JaMychal Green",
+    "Position": "PF",
+    "Teams": "DEN"
+    },
+    "240": {
+    "Age": 27,
+    "Player": "Javonte Green",
+    "Position": "SF-SG",
+    "Teams": "TOT"
+    },
+    "241": {
+    "Age": 27,
+    "Player": "Javonte Green",
+    "Position": "SF",
+    "Teams": "BOS"
+    },
+    "242": {
+    "Age": 27,
+    "Player": "Javonte Green",
+    "Position": "SG",
+    "Teams": "CHI"
+    },
+    "243": {
+    "Age": 34,
+    "Player": "Jeff Green",
+    "Position": "C",
+    "Teams": "BRK"
+    },
+    "244": {
+    "Age": 20,
+    "Player": "Josh Green",
+    "Position": "SG",
+    "Teams": "DAL"
+    },
+    "245": {
+    "Age": 31,
+    "Player": "Blake Griffin",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "246": {
+    "Age": 31,
+    "Player": "Blake Griffin",
+    "Position": "PF",
+    "Teams": "DET"
+    },
+    "247": {
+    "Age": 31,
+    "Player": "Blake Griffin",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "248": {
+    "Age": 23,
+    "Player": "Kyle Guy",
+    "Position": "PG",
+    "Teams": "SAC"
+    },
+    "249": {
+    "Age": 22,
+    "Player": "Rui Hachimura",
+    "Position": "PF",
+    "Teams": "WAS"
+    },
+    "250": {
+    "Age": 21,
+    "Player": "Ashton Hagans",
+    "Position": "PG",
+    "Teams": "MIN"
+    },
+    "251": {
+    "Age": 20,
+    "Player": "Tyrese Haliburton",
+    "Position": "PG",
+    "Teams": "SAC"
+    },
+    "252": {
+    "Age": 23,
+    "Player": "Donta Hall",
+    "Position": "PF",
+    "Teams": "ORL"
+    },
+    "253": {
+    "Age": 20,
+    "Player": "Josh Hall",
+    "Position": "SF",
+    "Teams": "OKC"
+    },
+    "254": {
+    "Age": 19,
+    "Player": "R.J. Hampton",
+    "Position": "SG-PG",
+    "Teams": "TOT"
+    },
+    "255": {
+    "Age": 19,
+    "Player": "R.J. Hampton",
+    "Position": "PG",
+    "Teams": "DEN"
+    },
+    "256": {
+    "Age": 19,
+    "Player": "R.J. Hampton",
+    "Position": "SG",
+    "Teams": "ORL"
+    },
+    "257": {
+    "Age": 28,
+    "Player": "Tim Hardaway Jr.",
+    "Position": "SG",
+    "Teams": "DAL"
+    },
+    "258": {
+    "Age": 31,
+    "Player": "James Harden",
+    "Position": "PG-SG",
+    "Teams": "TOT"
+    },
+    "259": {
+    "Age": 31,
+    "Player": "James Harden",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "260": {
+    "Age": 31,
+    "Player": "James Harden",
+    "Position": "PG",
+    "Teams": "BRK"
+    },
+    "261": {
+    "Age": 27,
+    "Player": "Maurice Harkless",
+    "Position": "PF-SF",
+    "Teams": "TOT"
+    },
+    "262": {
+    "Age": 27,
+    "Player": "Maurice Harkless",
+    "Position": "SF",
+    "Teams": "MIA"
+    },
+    "263": {
+    "Age": 27,
+    "Player": "Maurice Harkless",
+    "Position": "PF",
+    "Teams": "SAC"
+    },
+    "264": {
+    "Age": 23,
+    "Player": "Jared Harper",
+    "Position": "PG",
+    "Teams": "NYK"
+    },
+    "265": {
+    "Age": 27,
+    "Player": "Montrezl Harrell",
+    "Position": "C",
+    "Teams": "LAL"
+    },
+    "266": {
+    "Age": 26,
+    "Player": "Gary Harris",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "267": {
+    "Age": 26,
+    "Player": "Gary Harris",
+    "Position": "SG",
+    "Teams": "DEN"
+    },
+    "268": {
+    "Age": 26,
+    "Player": "Gary Harris",
+    "Position": "SG",
+    "Teams": "ORL"
+    },
+    "269": {
+    "Age": 22,
+    "Player": "Jalen Harris",
+    "Position": "SG",
+    "Teams": "TOR"
+    },
+    "270": {
+    "Age": 29,
+    "Player": "Joe Harris",
+    "Position": "SF",
+    "Teams": "BRK"
+    },
+    "271": {
+    "Age": 28,
+    "Player": "Tobias Harris",
+    "Position": "PF",
+    "Teams": "PHI"
+    },
+    "272": {
+    "Age": 27,
+    "Player": "Shaquille Harrison",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "273": {
+    "Age": 27,
+    "Player": "Shaquille Harrison",
+    "Position": "SG",
+    "Teams": "UTA"
+    },
+    "274": {
+    "Age": 27,
+    "Player": "Shaquille Harrison",
+    "Position": "SG",
+    "Teams": "DEN"
+    },
+    "275": {
+    "Age": 25,
+    "Player": "Josh Hart",
+    "Position": "SF",
+    "Teams": "NOP"
+    },
+    "276": {
+    "Age": 22,
+    "Player": "Isaiah Hartenstein",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "277": {
+    "Age": 22,
+    "Player": "Isaiah Hartenstein",
+    "Position": "C",
+    "Teams": "DEN"
+    },
+    "278": {
+    "Age": 22,
+    "Player": "Isaiah Hartenstein",
+    "Position": "C",
+    "Teams": "CLE"
+    },
+    "279": {
+    "Age": 40,
+    "Player": "Udonis Haslem",
+    "Position": "C",
+    "Teams": "MIA"
+    },
+    "280": {
+    "Age": 20,
+    "Player": "Jaxson Hayes",
+    "Position": "C",
+    "Teams": "NOP"
+    },
+    "281": {
+    "Age": 19,
+    "Player": "Killian Hayes",
+    "Position": "PG",
+    "Teams": "DET"
+    },
+    "282": {
+    "Age": 30,
+    "Player": "Gordon Hayward",
+    "Position": "SF",
+    "Teams": "CHO"
+    },
+    "283": {
+    "Age": 25,
+    "Player": "Juancho Hernangómez",
+    "Position": "PF",
+    "Teams": "MIN"
+    },
+    "284": {
+    "Age": 26,
+    "Player": "Willy Hernangómez",
+    "Position": "C",
+    "Teams": "NOP"
+    },
+    "285": {
+    "Age": 21,
+    "Player": "Tyler Herro",
+    "Position": "SG",
+    "Teams": "MIA"
+    },
+    "286": {
+    "Age": 28,
+    "Player": "Buddy Hield",
+    "Position": "SG",
+    "Teams": "SAC"
+    },
+    "287": {
+    "Age": 34,
+    "Player": "George Hill",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "288": {
+    "Age": 34,
+    "Player": "George Hill",
+    "Position": "PG",
+    "Teams": "OKC"
+    },
+    "289": {
+    "Age": 34,
+    "Player": "George Hill",
+    "Position": "PG",
+    "Teams": "PHI"
+    },
+    "290": {
+    "Age": 29,
+    "Player": "Solomon Hill",
+    "Position": "PF",
+    "Teams": "ATL"
+    },
+    "291": {
+    "Age": 21,
+    "Player": "Nate Hinton",
+    "Position": "SG",
+    "Teams": "DAL"
+    },
+    "292": {
+    "Age": 21,
+    "Player": "Jaylen Hoard",
+    "Position": "SF",
+    "Teams": "OKC"
+    },
+    "293": {
+    "Age": 24,
+    "Player": "Aaron Holiday",
+    "Position": "PG",
+    "Teams": "IND"
+    },
+    "294": {
+    "Age": 30,
+    "Player": "Jrue Holiday",
+    "Position": "PG",
+    "Teams": "MIL"
+    },
+    "295": {
+    "Age": 31,
+    "Player": "Justin Holiday",
+    "Position": "SG",
+    "Teams": "IND"
+    },
+    "296": {
+    "Age": 26,
+    "Player": "Rondae Hollis-Jefferson",
+    "Position": "PF",
+    "Teams": "POR"
+    },
+    "297": {
+    "Age": 27,
+    "Player": "Richaun Holmes",
+    "Position": "C",
+    "Teams": "SAC"
+    },
+    "298": {
+    "Age": 28,
+    "Player": "Rodney Hood",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "299": {
+    "Age": 28,
+    "Player": "Rodney Hood",
+    "Position": "SF",
+    "Teams": "POR"
+    },
+    "300": {
+    "Age": 28,
+    "Player": "Rodney Hood",
+    "Position": "SF",
+    "Teams": "TOR"
+    },
+    "301": {
+    "Age": 34,
+    "Player": "Al Horford",
+    "Position": "C",
+    "Teams": "OKC"
+    },
+    "302": {
+    "Age": 20,
+    "Player": "Talen Horton-Tucker",
+    "Position": "SG",
+    "Teams": "LAL"
+    },
+    "303": {
+    "Age": 27,
+    "Player": "Danuel House Jr.",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "304": {
+    "Age": 35,
+    "Player": "Dwight Howard",
+    "Position": "C",
+    "Teams": "PHI"
+    },
+    "305": {
+    "Age": 21,
+    "Player": "Markus Howard",
+    "Position": "SG",
+    "Teams": "DEN"
+    },
+    "306": {
+    "Age": 22,
+    "Player": "Kevin Huerter",
+    "Position": "SG",
+    "Teams": "ATL"
+    },
+    "307": {
+    "Age": 22,
+    "Player": "Elijah Hughes",
+    "Position": "SF",
+    "Teams": "UTA"
+    },
+    "308": {
+    "Age": 23,
+    "Player": "De'Andre Hunter",
+    "Position": "SF",
+    "Teams": "ATL"
+    },
+    "309": {
+    "Age": 24,
+    "Player": "Chandler Hutchison",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "310": {
+    "Age": 24,
+    "Player": "Chandler Hutchison",
+    "Position": "SF",
+    "Teams": "CHI"
+    },
+    "311": {
+    "Age": 24,
+    "Player": "Chandler Hutchison",
+    "Position": "SF",
+    "Teams": "WAS"
+    },
+    "312": {
+    "Age": 31,
+    "Player": "Serge Ibaka",
+    "Position": "C",
+    "Teams": "LAC"
+    },
+    "313": {
+    "Age": 37,
+    "Player": "Andre Iguodala",
+    "Position": "SF",
+    "Teams": "MIA"
+    },
+    "314": {
+    "Age": 33,
+    "Player": "Ersan İlyasova",
+    "Position": "PF",
+    "Teams": "UTA"
+    },
+    "315": {
+    "Age": 33,
+    "Player": "Joe Ingles",
+    "Position": "SF",
+    "Teams": "UTA"
+    },
+    "316": {
+    "Age": 23,
+    "Player": "Brandon Ingram",
+    "Position": "SF",
+    "Teams": "NOP"
+    },
+    "317": {
+    "Age": 28,
+    "Player": "Kyrie Irving",
+    "Position": "PG",
+    "Teams": "BRK"
+    },
+    "318": {
+    "Age": 26,
+    "Player": "Wes Iwundu",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "319": {
+    "Age": 26,
+    "Player": "Wes Iwundu",
+    "Position": "SF",
+    "Teams": "DAL"
+    },
+    "320": {
+    "Age": 26,
+    "Player": "Wes Iwundu",
+    "Position": "SF",
+    "Teams": "NOP"
+    },
+    "321": {
+    "Age": 22,
+    "Player": "Frank Jackson",
+    "Position": "PG",
+    "Teams": "DET"
+    },
+    "322": {
+    "Age": 21,
+    "Player": "Jaren Jackson Jr.",
+    "Position": "C",
+    "Teams": "MEM"
+    },
+    "323": {
+    "Age": 23,
+    "Player": "Josh Jackson",
+    "Position": "SG",
+    "Teams": "DET"
+    },
+    "324": {
+    "Age": 25,
+    "Player": "Justin Jackson",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "325": {
+    "Age": 25,
+    "Player": "Justin Jackson",
+    "Position": "SF",
+    "Teams": "OKC"
+    },
+    "326": {
+    "Age": 25,
+    "Player": "Justin Jackson",
+    "Position": "SF",
+    "Teams": "MIL"
+    },
+    "327": {
+    "Age": 30,
+    "Player": "Reggie Jackson",
+    "Position": "SG",
+    "Teams": "LAC"
+    },
+    "328": {
+    "Age": 24,
+    "Player": "Justin James",
+    "Position": "SF",
+    "Teams": "SAC"
+    },
+    "329": {
+    "Age": 36,
+    "Player": "LeBron James",
+    "Position": "PG",
+    "Teams": "LAL"
+    },
+    "330": {
+    "Age": 30,
+    "Player": "Mike James",
+    "Position": "PG",
+    "Teams": "BRK"
+    },
+    "331": {
+    "Age": 23,
+    "Player": "DaQuan Jeffries",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "332": {
+    "Age": 23,
+    "Player": "DaQuan Jeffries",
+    "Position": "SG",
+    "Teams": "SAC"
+    },
+    "333": {
+    "Age": 23,
+    "Player": "DaQuan Jeffries",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "334": {
+    "Age": 23,
+    "Player": "Ty Jerome",
+    "Position": "SG",
+    "Teams": "OKC"
+    },
+    "335": {
+    "Age": 21,
+    "Player": "Isaiah Joe",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "336": {
+    "Age": 24,
+    "Player": "Alize Johnson",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "337": {
+    "Age": 24,
+    "Player": "Cameron Johnson",
+    "Position": "PF",
+    "Teams": "PHO"
+    },
+    "338": {
+    "Age": 33,
+    "Player": "James Johnson",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "339": {
+    "Age": 33,
+    "Player": "James Johnson",
+    "Position": "PF",
+    "Teams": "DAL"
+    },
+    "340": {
+    "Age": 33,
+    "Player": "James Johnson",
+    "Position": "PF",
+    "Teams": "NOP"
+    },
+    "341": {
+    "Age": 21,
+    "Player": "Keldon Johnson",
+    "Position": "SF",
+    "Teams": "SAS"
+    },
+    "342": {
+    "Age": 24,
+    "Player": "Stanley Johnson",
+    "Position": "PF",
+    "Teams": "TOR"
+    },
+    "343": {
+    "Age": 28,
+    "Player": "Tyler Johnson",
+    "Position": "SG",
+    "Teams": "BRK"
+    },
+    "344": {
+    "Age": 25,
+    "Player": "Nikola Jokić",
+    "Position": "C",
+    "Teams": "DEN"
+    },
+    "345": {
+    "Age": 25,
+    "Player": "Damian Jones",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "346": {
+    "Age": 25,
+    "Player": "Damian Jones",
+    "Position": "C",
+    "Teams": "PHO"
+    },
+    "347": {
+    "Age": 25,
+    "Player": "Damian Jones",
+    "Position": "C",
+    "Teams": "LAL"
+    },
+    "348": {
+    "Age": 25,
+    "Player": "Damian Jones",
+    "Position": "C",
+    "Teams": "SAC"
+    },
+    "349": {
+    "Age": 23,
+    "Player": "Derrick Jones Jr.",
+    "Position": "SF",
+    "Teams": "POR"
+    },
+    "350": {
+    "Age": 22,
+    "Player": "Mason Jones",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "351": {
+    "Age": 22,
+    "Player": "Mason Jones",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "352": {
+    "Age": 22,
+    "Player": "Mason Jones",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "353": {
+    "Age": 21,
+    "Player": "Tre Jones",
+    "Position": "PG",
+    "Teams": "SAS"
+    },
+    "354": {
+    "Age": 24,
+    "Player": "Tyus Jones",
+    "Position": "PG",
+    "Teams": "MEM"
+    },
+    "355": {
+    "Age": 32,
+    "Player": "DeAndre Jordan",
+    "Position": "C",
+    "Teams": "BRK"
+    },
+    "356": {
+    "Age": 29,
+    "Player": "Cory Joseph",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "357": {
+    "Age": 29,
+    "Player": "Cory Joseph",
+    "Position": "PG",
+    "Teams": "SAC"
+    },
+    "358": {
+    "Age": 29,
+    "Player": "Cory Joseph",
+    "Position": "PG",
+    "Teams": "DET"
+    },
+    "359": {
+    "Age": 23,
+    "Player": "Mfiondu Kabengele",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "360": {
+    "Age": 23,
+    "Player": "Mfiondu Kabengele",
+    "Position": "PF",
+    "Teams": "LAC"
+    },
+    "361": {
+    "Age": 23,
+    "Player": "Mfiondu Kabengele",
+    "Position": "PF",
+    "Teams": "CLE"
+    },
+    "362": {
+    "Age": 27,
+    "Player": "Frank Kaminsky",
+    "Position": "C",
+    "Teams": "PHO"
+    },
+    "363": {
+    "Age": 24,
+    "Player": "Luke Kennard",
+    "Position": "SG",
+    "Teams": "LAC"
+    },
+    "364": {
+    "Age": 21,
+    "Player": "Louis King",
+    "Position": "SF",
+    "Teams": "SAC"
+    },
+    "365": {
+    "Age": 29,
+    "Player": "Maxi Kleber",
+    "Position": "PF",
+    "Teams": "DAL"
+    },
+    "366": {
+    "Age": 23,
+    "Player": "Nathan Knight",
+    "Position": "PF",
+    "Teams": "ATL"
+    },
+    "367": {
+    "Age": 21,
+    "Player": "Kevin Knox",
+    "Position": "SF",
+    "Teams": "NYK"
+    },
+    "368": {
+    "Age": 24,
+    "Player": "John Konchar",
+    "Position": "SG",
+    "Teams": "MEM"
+    },
+    "369": {
+    "Age": 23,
+    "Player": "Furkan Korkmaz",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "370": {
+    "Age": 25,
+    "Player": "Luke Kornet",
+    "Position": "C-PF",
+    "Teams": "TOT"
+    },
+    "371": {
+    "Age": 25,
+    "Player": "Luke Kornet",
+    "Position": "PF",
+    "Teams": "CHI"
+    },
+    "372": {
+    "Age": 25,
+    "Player": "Luke Kornet",
+    "Position": "C",
+    "Teams": "BOS"
+    },
+    "373": {
+    "Age": 22,
+    "Player": "Rodions Kurucs",
+    "Position": "SF-PF",
+    "Teams": "TOT"
+    },
+    "374": {
+    "Age": 22,
+    "Player": "Rodions Kurucs",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "375": {
+    "Age": 22,
+    "Player": "Rodions Kurucs",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "376": {
+    "Age": 22,
+    "Player": "Rodions Kurucs",
+    "Position": "SF",
+    "Teams": "MIL"
+    },
+    "377": {
+    "Age": 25,
+    "Player": "Kyle Kuzma",
+    "Position": "SF",
+    "Teams": "LAL"
+    },
+    "378": {
+    "Age": 23,
+    "Player": "Anthony Lamb",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "379": {
+    "Age": 28,
+    "Player": "Jeremy Lamb",
+    "Position": "SG",
+    "Teams": "IND"
+    },
+    "380": {
+    "Age": 21,
+    "Player": "Romeo Langford",
+    "Position": "SG",
+    "Teams": "BOS"
+    },
+    "381": {
+    "Age": 25,
+    "Player": "Zach LaVine",
+    "Position": "SG",
+    "Teams": "CHI"
+    },
+    "382": {
+    "Age": 26,
+    "Player": "Jake Layman",
+    "Position": "SF",
+    "Teams": "MIN"
+    },
+    "383": {
+    "Age": 23,
+    "Player": "T.J. Leaf",
+    "Position": "PF",
+    "Teams": "POR"
+    },
+    "384": {
+    "Age": 20,
+    "Player": "Jalen Lecque",
+    "Position": "PG",
+    "Teams": "IND"
+    },
+    "385": {
+    "Age": 28,
+    "Player": "Damion Lee",
+    "Position": "SG",
+    "Teams": "GSW"
+    },
+    "386": {
+    "Age": 21,
+    "Player": "Saben Lee",
+    "Position": "PG",
+    "Teams": "DET"
+    },
+    "387": {
+    "Age": 27,
+    "Player": "Alex Len",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "388": {
+    "Age": 27,
+    "Player": "Alex Len",
+    "Position": "C",
+    "Teams": "TOR"
+    },
+    "389": {
+    "Age": 27,
+    "Player": "Alex Len",
+    "Position": "C",
+    "Teams": "WAS"
+    },
+    "390": {
+    "Age": 29,
+    "Player": "Kawhi Leonard",
+    "Position": "SF",
+    "Teams": "LAC"
+    },
+    "391": {
+    "Age": 28,
+    "Player": "Meyers Leonard",
+    "Position": "C",
+    "Teams": "MIA"
+    },
+    "392": {
+    "Age": 26,
+    "Player": "Caris LeVert",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "393": {
+    "Age": 26,
+    "Player": "Caris LeVert",
+    "Position": "SG",
+    "Teams": "BRK"
+    },
+    "394": {
+    "Age": 26,
+    "Player": "Caris LeVert",
+    "Position": "SG",
+    "Teams": "IND"
+    },
+    "395": {
+    "Age": 19,
+    "Player": "Kira Lewis Jr.",
+    "Position": "PG",
+    "Teams": "NOP"
+    },
+    "396": {
+    "Age": 30,
+    "Player": "Damian Lillard",
+    "Position": "PG",
+    "Teams": "POR"
+    },
+    "397": {
+    "Age": 20,
+    "Player": "Nassir Little",
+    "Position": "PF",
+    "Teams": "POR"
+    },
+    "398": {
+    "Age": 24,
+    "Player": "Kevon Looney",
+    "Position": "C",
+    "Teams": "GSW"
+    },
+    "399": {
+    "Age": 32,
+    "Player": "Brook Lopez",
+    "Position": "C",
+    "Teams": "MIL"
+    },
+    "400": {
+    "Age": 32,
+    "Player": "Robin Lopez",
+    "Position": "C",
+    "Teams": "WAS"
+    },
+    "401": {
+    "Age": 21,
+    "Player": "Didi Louzada",
+    "Position": "SF",
+    "Teams": "NOP"
+    },
+    "402": {
+    "Age": 32,
+    "Player": "Kevin Love",
+    "Position": "PF",
+    "Teams": "CLE"
+    },
+    "403": {
+    "Age": 34,
+    "Player": "Kyle Lowry",
+    "Position": "PG",
+    "Teams": "TOR"
+    },
+    "404": {
+    "Age": 25,
+    "Player": "Timothé Luwawu-Cabarrot",
+    "Position": "SF",
+    "Teams": "BRK"
+    },
+    "405": {
+    "Age": 25,
+    "Player": "Trey Lyles",
+    "Position": "PF",
+    "Teams": "SAS"
+    },
+    "406": {
+    "Age": 22,
+    "Player": "Will Magnay",
+    "Position": "C",
+    "Teams": "NOP"
+    },
+    "407": {
+    "Age": 23,
+    "Player": "Thon Maker",
+    "Position": "C",
+    "Teams": "CLE"
+    },
+    "408": {
+    "Age": 19,
+    "Player": "Théo Maledon",
+    "Position": "PG",
+    "Teams": "OKC"
+    },
+    "409": {
+    "Age": 20,
+    "Player": "Karim Mané",
+    "Position": "PG",
+    "Teams": "ORL"
+    },
+    "410": {
+    "Age": 24,
+    "Player": "Terance Mann",
+    "Position": "SG",
+    "Teams": "LAC"
+    },
+    "411": {
+    "Age": 19,
+    "Player": "Nico Mannion",
+    "Position": "PG",
+    "Teams": "GSW"
+    },
+    "412": {
+    "Age": 32,
+    "Player": "Boban Marjanović",
+    "Position": "C",
+    "Teams": "DAL"
+    },
+    "413": {
+    "Age": 23,
+    "Player": "Lauri Markkanen",
+    "Position": "PF",
+    "Teams": "CHI"
+    },
+    "414": {
+    "Age": 23,
+    "Player": "Naji Marshall",
+    "Position": "SF",
+    "Teams": "NOP"
+    },
+    "415": {
+    "Age": 25,
+    "Player": "Caleb Martin",
+    "Position": "SF",
+    "Teams": "CHO"
+    },
+    "416": {
+    "Age": 25,
+    "Player": "Cody Martin",
+    "Position": "SF",
+    "Teams": "CHO"
+    },
+    "417": {
+    "Age": 24,
+    "Player": "Jeremiah Martin",
+    "Position": "PG",
+    "Teams": "CLE"
+    },
+    "418": {
+    "Age": 25,
+    "Player": "Kelan Martin",
+    "Position": "SF",
+    "Teams": "IND"
+    },
+    "419": {
+    "Age": 20,
+    "Player": "Kenyon Martin Jr.",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "420": {
+    "Age": 26,
+    "Player": "Frank Mason III",
+    "Position": "PG",
+    "Teams": "ORL"
+    },
+    "421": {
+    "Age": 24,
+    "Player": "Garrison Mathews",
+    "Position": "SG",
+    "Teams": "WAS"
+    },
+    "422": {
+    "Age": 25,
+    "Player": "Dakota Mathias",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "423": {
+    "Age": 34,
+    "Player": "Wesley Matthews",
+    "Position": "SG",
+    "Teams": "LAL"
+    },
+    "424": {
+    "Age": 20,
+    "Player": "Tyrese Maxey",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "425": {
+    "Age": 23,
+    "Player": "Skylar Mays",
+    "Position": "SG",
+    "Teams": "ATL"
+    },
+    "426": {
+    "Age": 25,
+    "Player": "Patrick McCaw",
+    "Position": "SF",
+    "Teams": "TOR"
+    },
+    "427": {
+    "Age": 29,
+    "Player": "CJ McCollum",
+    "Position": "SG",
+    "Teams": "POR"
+    },
+    "428": {
+    "Age": 28,
+    "Player": "T.J. McConnell",
+    "Position": "PG",
+    "Teams": "IND"
+    },
+    "429": {
+    "Age": 20,
+    "Player": "Jaden McDaniels",
+    "Position": "PF",
+    "Teams": "MIN"
+    },
+    "430": {
+    "Age": 23,
+    "Player": "Jalen McDaniels",
+    "Position": "SF",
+    "Teams": "CHO"
+    },
+    "431": {
+    "Age": 29,
+    "Player": "Doug McDermott",
+    "Position": "PF",
+    "Teams": "IND"
+    },
+    "432": {
+    "Age": 24,
+    "Player": "Sean McDermott",
+    "Position": "SF",
+    "Teams": "MEM"
+    },
+    "433": {
+    "Age": 33,
+    "Player": "JaVale McGee",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "434": {
+    "Age": 33,
+    "Player": "JaVale McGee",
+    "Position": "C",
+    "Teams": "CLE"
+    },
+    "435": {
+    "Age": 33,
+    "Player": "JaVale McGee",
+    "Position": "C",
+    "Teams": "DEN"
+    },
+    "436": {
+    "Age": 29,
+    "Player": "Rodney McGruder",
+    "Position": "SG",
+    "Teams": "DET"
+    },
+    "437": {
+    "Age": 28,
+    "Player": "Alfonzo McKinnie",
+    "Position": "SF",
+    "Teams": "LAL"
+    },
+    "438": {
+    "Age": 24,
+    "Player": "Jordan McLaughlin",
+    "Position": "PG",
+    "Teams": "MIN"
+    },
+    "439": {
+    "Age": 27,
+    "Player": "Ben McLemore",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "440": {
+    "Age": 27,
+    "Player": "Ben McLemore",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "441": {
+    "Age": 27,
+    "Player": "Ben McLemore",
+    "Position": "SG",
+    "Teams": "LAL"
+    },
+    "442": {
+    "Age": 30,
+    "Player": "Nicolò Melli",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "443": {
+    "Age": 30,
+    "Player": "Nicolò Melli",
+    "Position": "PF",
+    "Teams": "NOP"
+    },
+    "444": {
+    "Age": 30,
+    "Player": "Nicolò Melli",
+    "Position": "PF",
+    "Teams": "DAL"
+    },
+    "445": {
+    "Age": 22,
+    "Player": "De'Anthony Melton",
+    "Position": "PG",
+    "Teams": "MEM"
+    },
+    "446": {
+    "Age": 24,
+    "Player": "Sam Merrill",
+    "Position": "SG",
+    "Teams": "MIL"
+    },
+    "447": {
+    "Age": 23,
+    "Player": "Chimezie Metu",
+    "Position": "C",
+    "Teams": "SAC"
+    },
+    "448": {
+    "Age": 29,
+    "Player": "Khris Middleton",
+    "Position": "SF",
+    "Teams": "MIL"
+    },
+    "449": {
+    "Age": 30,
+    "Player": "Darius Miller",
+    "Position": "SF",
+    "Teams": "OKC"
+    },
+    "450": {
+    "Age": 32,
+    "Player": "Patty Mills",
+    "Position": "PG",
+    "Teams": "SAS"
+    },
+    "451": {
+    "Age": 35,
+    "Player": "Paul Millsap",
+    "Position": "PF",
+    "Teams": "DEN"
+    },
+    "452": {
+    "Age": 24,
+    "Player": "Shake Milton",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "453": {
+    "Age": 24,
+    "Player": "Donovan Mitchell",
+    "Position": "PG",
+    "Teams": "UTA"
+    },
+    "454": {
+    "Age": 22,
+    "Player": "Adam Mokoka",
+    "Position": "SG",
+    "Teams": "CHI"
+    },
+    "455": {
+    "Age": 22,
+    "Player": "Malik Monk",
+    "Position": "SG",
+    "Teams": "CHO"
+    },
+    "456": {
+    "Age": 31,
+    "Player": "E'Twaun Moore",
+    "Position": "SG",
+    "Teams": "PHO"
+    },
+    "457": {
+    "Age": 21,
+    "Player": "Ja Morant",
+    "Position": "PG",
+    "Teams": "MEM"
+    },
+    "458": {
+    "Age": 23,
+    "Player": "Juwan Morgan",
+    "Position": "PF",
+    "Teams": "UTA"
+    },
+    "459": {
+    "Age": 31,
+    "Player": "Marcus Morris",
+    "Position": "PF",
+    "Teams": "LAC"
+    },
+    "460": {
+    "Age": 31,
+    "Player": "Markieff Morris",
+    "Position": "PF",
+    "Teams": "LAL"
+    },
+    "461": {
+    "Age": 25,
+    "Player": "Monte Morris",
+    "Position": "PG",
+    "Teams": "DEN"
+    },
+    "462": {
+    "Age": 26,
+    "Player": "Mychal Mulder",
+    "Position": "PG",
+    "Teams": "GSW"
+    },
+    "463": {
+    "Age": 24,
+    "Player": "Dejounte Murray",
+    "Position": "PG",
+    "Teams": "SAS"
+    },
+    "464": {
+    "Age": 23,
+    "Player": "Jamal Murray",
+    "Position": "PG",
+    "Teams": "DEN"
+    },
+    "465": {
+    "Age": 29,
+    "Player": "Mike Muscala",
+    "Position": "C",
+    "Teams": "OKC"
+    },
+    "466": {
+    "Age": 23,
+    "Player": "Svi Mykhailiuk",
+    "Position": "SF-SG",
+    "Teams": "TOT"
+    },
+    "467": {
+    "Age": 23,
+    "Player": "Svi Mykhailiuk",
+    "Position": "SF",
+    "Teams": "DET"
+    },
+    "468": {
+    "Age": 23,
+    "Player": "Svi Mykhailiuk",
+    "Position": "SG",
+    "Teams": "OKC"
+    },
+    "469": {
+    "Age": 27,
+    "Player": "Abdel Nader",
+    "Position": "SF",
+    "Teams": "PHO"
+    },
+    "470": {
+    "Age": 28,
+    "Player": "Larry Nance Jr.",
+    "Position": "PF",
+    "Teams": "CLE"
+    },
+    "471": {
+    "Age": 21,
+    "Player": "Aaron Nesmith",
+    "Position": "SF",
+    "Teams": "BOS"
+    },
+    "472": {
+    "Age": 28,
+    "Player": "Raul Neto",
+    "Position": "PG",
+    "Teams": "WAS"
+    },
+    "473": {
+    "Age": 27,
+    "Player": "Georges Niang",
+    "Position": "PF",
+    "Teams": "UTA"
+    },
+    "474": {
+    "Age": 20,
+    "Player": "Zeke Nnaji",
+    "Position": "PF",
+    "Teams": "DEN"
+    },
+    "475": {
+    "Age": 26,
+    "Player": "Nerlens Noel",
+    "Position": "C",
+    "Teams": "NYK"
+    },
+    "476": {
+    "Age": 21,
+    "Player": "Jaylen Nowell",
+    "Position": "SG",
+    "Teams": "MIN"
+    },
+    "477": {
+    "Age": 22,
+    "Player": "Frank Ntilikina",
+    "Position": "PG",
+    "Teams": "NYK"
+    },
+    "478": {
+    "Age": 25,
+    "Player": "Kendrick Nunn",
+    "Position": "PG",
+    "Teams": "MIA"
+    },
+    "479": {
+    "Age": 30,
+    "Player": "James Nunnally",
+    "Position": "SF",
+    "Teams": "NOP"
+    },
+    "480": {
+    "Age": 26,
+    "Player": "Jusuf Nurkić",
+    "Position": "C",
+    "Teams": "POR"
+    },
+    "481": {
+    "Age": 28,
+    "Player": "David Nwaba",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "482": {
+    "Age": 22,
+    "Player": "Jordan Nwora",
+    "Position": "SF",
+    "Teams": "MIL"
+    },
+    "483": {
+    "Age": 27,
+    "Player": "Royce O'Neale",
+    "Position": "SF",
+    "Teams": "UTA"
+    },
+    "484": {
+    "Age": 26,
+    "Player": "Semi Ojeleye",
+    "Position": "PF",
+    "Teams": "BOS"
+    },
+    "485": {
+    "Age": 25,
+    "Player": "Jahlil Okafor",
+    "Position": "C",
+    "Teams": "DET"
+    },
+    "486": {
+    "Age": 22,
+    "Player": "Chuma Okeke",
+    "Position": "PF",
+    "Teams": "ORL"
+    },
+    "487": {
+    "Age": 22,
+    "Player": "Josh Okogie",
+    "Position": "SG",
+    "Teams": "MIN"
+    },
+    "488": {
+    "Age": 20,
+    "Player": "Onyeka Okongwu",
+    "Position": "C",
+    "Teams": "ATL"
+    },
+    "489": {
+    "Age": 20,
+    "Player": "Isaac Okoro",
+    "Position": "SG",
+    "Teams": "CLE"
+    },
+    "490": {
+    "Age": 21,
+    "Player": "KZ Okpala",
+    "Position": "PF",
+    "Teams": "MIA"
+    },
+    "491": {
+    "Age": 28,
+    "Player": "Victor Oladipo",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "492": {
+    "Age": 28,
+    "Player": "Victor Oladipo",
+    "Position": "SG",
+    "Teams": "IND"
+    },
+    "493": {
+    "Age": 28,
+    "Player": "Victor Oladipo",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "494": {
+    "Age": 28,
+    "Player": "Victor Oladipo",
+    "Position": "SG",
+    "Teams": "MIA"
+    },
+    "495": {
+    "Age": 24,
+    "Player": "Cameron Oliver",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "496": {
+    "Age": 29,
+    "Player": "Kelly Olynyk",
+    "Position": "C-PF",
+    "Teams": "TOT"
+    },
+    "497": {
+    "Age": 29,
+    "Player": "Kelly Olynyk",
+    "Position": "C",
+    "Teams": "MIA"
+    },
+    "498": {
+    "Age": 29,
+    "Player": "Kelly Olynyk",
+    "Position": "PF",
+    "Teams": "HOU"
+    },
+    "499": {
+    "Age": 23,
+    "Player": "Miye Oni",
+    "Position": "SG",
+    "Teams": "UTA"
+    },
+    "500": {
+    "Age": 25,
+    "Player": "Cedi Osman",
+    "Position": "SF",
+    "Teams": "CLE"
+    },
+    "501": {
+    "Age": 21,
+    "Player": "Daniel Oturu",
+    "Position": "C",
+    "Teams": "LAC"
+    },
+    "502": {
+    "Age": 25,
+    "Player": "Kelly Oubre Jr.",
+    "Position": "SF",
+    "Teams": "GSW"
+    },
+    "503": {
+    "Age": 25,
+    "Player": "Jabari Parker",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "504": {
+    "Age": 25,
+    "Player": "Jabari Parker",
+    "Position": "PF",
+    "Teams": "SAC"
+    },
+    "505": {
+    "Age": 25,
+    "Player": "Jabari Parker",
+    "Position": "PF",
+    "Teams": "BOS"
+    },
+    "506": {
+    "Age": 24,
+    "Player": "Eric Paschall",
+    "Position": "PF",
+    "Teams": "GSW"
+    },
+    "507": {
+    "Age": 25,
+    "Player": "Anžejs Pasečņiks",
+    "Position": "C",
+    "Teams": "WAS"
+    },
+    "508": {
+    "Age": 31,
+    "Player": "Patrick Patterson",
+    "Position": "PF",
+    "Teams": "LAC"
+    },
+    "509": {
+    "Age": 23,
+    "Player": "Justin Patton",
+    "Position": "C",
+    "Teams": "HOU"
+    },
+    "510": {
+    "Age": 35,
+    "Player": "Chris Paul",
+    "Position": "PG",
+    "Teams": "PHO"
+    },
+    "511": {
+    "Age": 26,
+    "Player": "Cameron Payne",
+    "Position": "PG",
+    "Teams": "PHO"
+    },
+    "512": {
+    "Age": 26,
+    "Player": "Elfrid Payton",
+    "Position": "PG",
+    "Teams": "NYK"
+    },
+    "513": {
+    "Age": 28,
+    "Player": "Gary Payton II",
+    "Position": "PG",
+    "Teams": "GSW"
+    },
+    "514": {
+    "Age": 27,
+    "Player": "Norvel Pelle",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "515": {
+    "Age": 27,
+    "Player": "Norvel Pelle",
+    "Position": "C",
+    "Teams": "BRK"
+    },
+    "516": {
+    "Age": 27,
+    "Player": "Norvel Pelle",
+    "Position": "C",
+    "Teams": "SAC"
+    },
+    "517": {
+    "Age": 27,
+    "Player": "Norvel Pelle",
+    "Position": "C",
+    "Teams": "NYK"
+    },
+    "518": {
+    "Age": 20,
+    "Player": "Reggie Perry",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "519": {
+    "Age": 25,
+    "Player": "Theo Pinson",
+    "Position": "SG",
+    "Teams": "NYK"
+    },
+    "520": {
+    "Age": 30,
+    "Player": "Mason Plumlee",
+    "Position": "C",
+    "Teams": "DET"
+    },
+    "521": {
+    "Age": 25,
+    "Player": "Jakob Poeltl",
+    "Position": "C",
+    "Teams": "SAS"
+    },
+    "522": {
+    "Age": 27,
+    "Player": "Vincent Poirier",
+    "Position": "C",
+    "Teams": "PHI"
+    },
+    "523": {
+    "Age": 19,
+    "Player": "Aleksej Pokusevski",
+    "Position": "PF",
+    "Teams": "OKC"
+    },
+    "524": {
+    "Age": 21,
+    "Player": "Jordan Poole",
+    "Position": "SG",
+    "Teams": "GSW"
+    },
+    "525": {
+    "Age": 21,
+    "Player": "Jontay Porter",
+    "Position": "PF",
+    "Teams": "MEM"
+    },
+    "526": {
+    "Age": 20,
+    "Player": "Kevin Porter Jr.",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "527": {
+    "Age": 22,
+    "Player": "Michael Porter Jr.",
+    "Position": "SF",
+    "Teams": "DEN"
+    },
+    "528": {
+    "Age": 27,
+    "Player": "Otto Porter Jr.",
+    "Position": "SF-PF",
+    "Teams": "TOT"
+    },
+    "529": {
+    "Age": 27,
+    "Player": "Otto Porter Jr.",
+    "Position": "SF",
+    "Teams": "CHI"
+    },
+    "530": {
+    "Age": 27,
+    "Player": "Otto Porter Jr.",
+    "Position": "PF",
+    "Teams": "ORL"
+    },
+    "531": {
+    "Age": 25,
+    "Player": "Bobby Portis",
+    "Position": "C",
+    "Teams": "MIL"
+    },
+    "532": {
+    "Age": 25,
+    "Player": "Kristaps Porziņģis",
+    "Position": "C",
+    "Teams": "DAL"
+    },
+    "533": {
+    "Age": 29,
+    "Player": "Dwight Powell",
+    "Position": "C",
+    "Teams": "DAL"
+    },
+    "534": {
+    "Age": 27,
+    "Player": "Norman Powell",
+    "Position": "SG-SF",
+    "Teams": "TOT"
+    },
+    "535": {
+    "Age": 27,
+    "Player": "Norman Powell",
+    "Position": "SG",
+    "Teams": "TOR"
+    },
+    "536": {
+    "Age": 27,
+    "Player": "Norman Powell",
+    "Position": "SF",
+    "Teams": "POR"
+    },
+    "537": {
+    "Age": 26,
+    "Player": "Taurean Prince",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "538": {
+    "Age": 26,
+    "Player": "Taurean Prince",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "539": {
+    "Age": 26,
+    "Player": "Taurean Prince",
+    "Position": "PF",
+    "Teams": "CLE"
+    },
+    "540": {
+    "Age": 23,
+    "Player": "Payton Pritchard",
+    "Position": "SG",
+    "Teams": "BOS"
+    },
+    "541": {
+    "Age": 21,
+    "Player": "Immanuel Quickley",
+    "Position": "PG",
+    "Teams": "NYK"
+    },
+    "542": {
+    "Age": 19,
+    "Player": "Jahmi'us Ramsey",
+    "Position": "SG",
+    "Teams": "SAC"
+    },
+    "543": {
+    "Age": 27,
+    "Player": "Chasson Randle",
+    "Position": "PG",
+    "Teams": "ORL"
+    },
+    "544": {
+    "Age": 26,
+    "Player": "Julius Randle",
+    "Position": "PF",
+    "Teams": "NYK"
+    },
+    "545": {
+    "Age": 21,
+    "Player": "Cam Reddish",
+    "Position": "SF",
+    "Teams": "ATL"
+    },
+    "546": {
+    "Age": 36,
+    "Player": "J.J. Redick",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "547": {
+    "Age": 36,
+    "Player": "J.J. Redick",
+    "Position": "SG",
+    "Teams": "NOP"
+    },
+    "548": {
+    "Age": 36,
+    "Player": "J.J. Redick",
+    "Position": "SG",
+    "Teams": "DAL"
+    },
+    "549": {
+    "Age": 21,
+    "Player": "Paul Reed",
+    "Position": "PF",
+    "Teams": "PHI"
+    },
+    "550": {
+    "Age": 21,
+    "Player": "Naz Reid",
+    "Position": "C",
+    "Teams": "MIN"
+    },
+    "551": {
+    "Age": 25,
+    "Player": "Cameron Reynolds",
+    "Position": "SF",
+    "Teams": "TOT"
+    },
+    "552": {
+    "Age": 25,
+    "Player": "Cameron Reynolds",
+    "Position": "SF",
+    "Teams": "SAS"
+    },
+    "553": {
+    "Age": 25,
+    "Player": "Cameron Reynolds",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "554": {
+    "Age": 23,
+    "Player": "Nick Richards",
+    "Position": "PF",
+    "Teams": "CHO"
+    },
+    "555": {
+    "Age": 27,
+    "Player": "Josh Richardson",
+    "Position": "SG",
+    "Teams": "DAL"
+    },
+    "556": {
+    "Age": 23,
+    "Player": "Grant Riller",
+    "Position": "PG",
+    "Teams": "CHO"
+    },
+    "557": {
+    "Age": 28,
+    "Player": "Austin Rivers",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "558": {
+    "Age": 28,
+    "Player": "Austin Rivers",
+    "Position": "SG",
+    "Teams": "NYK"
+    },
+    "559": {
+    "Age": 28,
+    "Player": "Austin Rivers",
+    "Position": "SG",
+    "Teams": "DEN"
+    },
+    "560": {
+    "Age": 29,
+    "Player": "Andre Roberson",
+    "Position": "SG",
+    "Teams": "BRK"
+    },
+    "561": {
+    "Age": 26,
+    "Player": "Duncan Robinson",
+    "Position": "SF",
+    "Teams": "MIA"
+    },
+    "562": {
+    "Age": 27,
+    "Player": "Glenn Robinson III",
+    "Position": "SF",
+    "Teams": "SAC"
+    },
+    "563": {
+    "Age": 23,
+    "Player": "Jerome Robinson",
+    "Position": "SG",
+    "Teams": "WAS"
+    },
+    "564": {
+    "Age": 23,
+    "Player": "Justin Robinson",
+    "Position": "PG",
+    "Teams": "OKC"
+    },
+    "565": {
+    "Age": 22,
+    "Player": "Mitchell Robinson",
+    "Position": "C",
+    "Teams": "NYK"
+    },
+    "566": {
+    "Age": 22,
+    "Player": "Isaiah Roby",
+    "Position": "PF",
+    "Teams": "OKC"
+    },
+    "567": {
+    "Age": 34,
+    "Player": "Rajon Rondo",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "568": {
+    "Age": 34,
+    "Player": "Rajon Rondo",
+    "Position": "PG",
+    "Teams": "ATL"
+    },
+    "569": {
+    "Age": 34,
+    "Player": "Rajon Rondo",
+    "Position": "PG",
+    "Teams": "LAC"
+    },
+    "570": {
+    "Age": 32,
+    "Player": "Derrick Rose",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "571": {
+    "Age": 32,
+    "Player": "Derrick Rose",
+    "Position": "PG",
+    "Teams": "DET"
+    },
+    "572": {
+    "Age": 32,
+    "Player": "Derrick Rose",
+    "Position": "PG",
+    "Teams": "NYK"
+    },
+    "573": {
+    "Age": 29,
+    "Player": "Terrence Ross",
+    "Position": "SG",
+    "Teams": "ORL"
+    },
+    "574": {
+    "Age": 26,
+    "Player": "Terry Rozier",
+    "Position": "SG",
+    "Teams": "CHO"
+    },
+    "575": {
+    "Age": 30,
+    "Player": "Ricky Rubio",
+    "Position": "PG",
+    "Teams": "MIN"
+    },
+    "576": {
+    "Age": 24,
+    "Player": "D'Angelo Russell",
+    "Position": "PG",
+    "Teams": "MIN"
+    },
+    "577": {
+    "Age": 24,
+    "Player": "Domantas Sabonis",
+    "Position": "PF",
+    "Teams": "IND"
+    },
+    "578": {
+    "Age": 21,
+    "Player": "Luka Šamanić",
+    "Position": "PF",
+    "Teams": "SAS"
+    },
+    "579": {
+    "Age": 27,
+    "Player": "JaKarr Sampson",
+    "Position": "PF",
+    "Teams": "IND"
+    },
+    "580": {
+    "Age": 26,
+    "Player": "Dario Šarić",
+    "Position": "C",
+    "Teams": "PHO"
+    },
+    "581": {
+    "Age": 29,
+    "Player": "Tomáš Satoranský",
+    "Position": "SG",
+    "Teams": "CHI"
+    },
+    "582": {
+    "Age": 27,
+    "Player": "Dennis Schröder",
+    "Position": "SG",
+    "Teams": "LAL"
+    },
+    "583": {
+    "Age": 32,
+    "Player": "Mike Scott",
+    "Position": "PF",
+    "Teams": "PHI"
+    },
+    "584": {
+    "Age": 20,
+    "Player": "Jay Scrubb",
+    "Position": "SG",
+    "Teams": "LAC"
+    },
+    "585": {
+    "Age": 22,
+    "Player": "Collin Sexton",
+    "Position": "SG",
+    "Teams": "CLE"
+    },
+    "586": {
+    "Age": 23,
+    "Player": "Landry Shamet",
+    "Position": "SG",
+    "Teams": "BRK"
+    },
+    "587": {
+    "Age": 30,
+    "Player": "Iman Shumpert",
+    "Position": "SG",
+    "Teams": "BRK"
+    },
+    "588": {
+    "Age": 26,
+    "Player": "Pascal Siakam",
+    "Position": "PF",
+    "Teams": "TOR"
+    },
+    "589": {
+    "Age": 24,
+    "Player": "Chris Silva",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "590": {
+    "Age": 24,
+    "Player": "Chris Silva",
+    "Position": "PF",
+    "Teams": "MIA"
+    },
+    "591": {
+    "Age": 24,
+    "Player": "Chris Silva",
+    "Position": "PF",
+    "Teams": "SAC"
+    },
+    "592": {
+    "Age": 24,
+    "Player": "Ben Simmons",
+    "Position": "PG",
+    "Teams": "PHI"
+    },
+    "593": {
+    "Age": 21,
+    "Player": "Anfernee Simons",
+    "Position": "SG",
+    "Teams": "POR"
+    },
+    "594": {
+    "Age": 20,
+    "Player": "Deividas Sirvydis",
+    "Position": "SG",
+    "Teams": "DET"
+    },
+    "595": {
+    "Age": 20,
+    "Player": "Alen Smailagić",
+    "Position": "PF",
+    "Teams": "GSW"
+    },
+    "596": {
+    "Age": 26,
+    "Player": "Marcus Smart",
+    "Position": "PG",
+    "Teams": "BOS"
+    },
+    "597": {
+    "Age": 23,
+    "Player": "Dennis Smith Jr.",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "598": {
+    "Age": 23,
+    "Player": "Dennis Smith Jr.",
+    "Position": "PG",
+    "Teams": "NYK"
+    },
+    "599": {
+    "Age": 23,
+    "Player": "Dennis Smith Jr.",
+    "Position": "PG",
+    "Teams": "DET"
+    },
+    "600": {
+    "Age": 32,
+    "Player": "Ish Smith",
+    "Position": "PG",
+    "Teams": "WAS"
+    },
+    "601": {
+    "Age": 20,
+    "Player": "Jalen Smith",
+    "Position": "PF",
+    "Teams": "PHO"
+    },
+    "602": {
+    "Age": 29,
+    "Player": "Tony Snell",
+    "Position": "SG",
+    "Teams": "ATL"
+    },
+    "603": {
+    "Age": 23,
+    "Player": "Ray Spalding",
+    "Position": "C",
+    "Teams": "HOU"
+    },
+    "604": {
+    "Age": 21,
+    "Player": "Cassius Stanley",
+    "Position": "SG",
+    "Teams": "IND"
+    },
+    "605": {
+    "Age": 23,
+    "Player": "Lamar Stevens",
+    "Position": "PF",
+    "Teams": "CLE"
+    },
+    "606": {
+    "Age": 19,
+    "Player": "Isaiah Stewart",
+    "Position": "C",
+    "Teams": "DET"
+    },
+    "607": {
+    "Age": 24,
+    "Player": "Max Strus",
+    "Position": "SF",
+    "Teams": "MIA"
+    },
+    "608": {
+    "Age": 25,
+    "Player": "Edmond Sumner",
+    "Position": "SG",
+    "Teams": "IND"
+    },
+    "609": {
+    "Age": 25,
+    "Player": "Jae'Sean Tate",
+    "Position": "SF",
+    "Teams": "HOU"
+    },
+    "610": {
+    "Age": 22,
+    "Player": "Jayson Tatum",
+    "Position": "SF",
+    "Teams": "BOS"
+    },
+    "611": {
+    "Age": 32,
+    "Player": "Jeff Teague",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "612": {
+    "Age": 32,
+    "Player": "Jeff Teague",
+    "Position": "PG",
+    "Teams": "BOS"
+    },
+    "613": {
+    "Age": 32,
+    "Player": "Jeff Teague",
+    "Position": "PG",
+    "Teams": "MIL"
+    },
+    "614": {
+    "Age": 34,
+    "Player": "Garrett Temple",
+    "Position": "SG",
+    "Teams": "CHI"
+    },
+    "615": {
+    "Age": 20,
+    "Player": "Tyrell Terry",
+    "Position": "PG",
+    "Teams": "DAL"
+    },
+    "616": {
+    "Age": 28,
+    "Player": "Daniel Theis",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "617": {
+    "Age": 28,
+    "Player": "Daniel Theis",
+    "Position": "C",
+    "Teams": "BOS"
+    },
+    "618": {
+    "Age": 28,
+    "Player": "Daniel Theis",
+    "Position": "C",
+    "Teams": "CHI"
+    },
+    "619": {
+    "Age": 24,
+    "Player": "Brodric Thomas",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "620": {
+    "Age": 24,
+    "Player": "Brodric Thomas",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "621": {
+    "Age": 24,
+    "Player": "Brodric Thomas",
+    "Position": "SG",
+    "Teams": "CLE"
+    },
+    "622": {
+    "Age": 31,
+    "Player": "Isaiah Thomas",
+    "Position": "PG",
+    "Teams": "NOP"
+    },
+    "623": {
+    "Age": 24,
+    "Player": "Khyri Thomas",
+    "Position": "SG",
+    "Teams": "HOU"
+    },
+    "624": {
+    "Age": 26,
+    "Player": "Matt Thomas",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "625": {
+    "Age": 26,
+    "Player": "Matt Thomas",
+    "Position": "SG",
+    "Teams": "TOR"
+    },
+    "626": {
+    "Age": 26,
+    "Player": "Matt Thomas",
+    "Position": "SG",
+    "Teams": "UTA"
+    },
+    "627": {
+    "Age": 29,
+    "Player": "Tristan Thompson",
+    "Position": "PF",
+    "Teams": "BOS"
+    },
+    "628": {
+    "Age": 26,
+    "Player": "Sindarius Thornwell",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "629": {
+    "Age": 26,
+    "Player": "Sindarius Thornwell",
+    "Position": "SG",
+    "Teams": "NOP"
+    },
+    "630": {
+    "Age": 26,
+    "Player": "Sindarius Thornwell",
+    "Position": "SG",
+    "Teams": "ORL"
+    },
+    "631": {
+    "Age": 23,
+    "Player": "Matisse Thybulle",
+    "Position": "SG",
+    "Teams": "PHI"
+    },
+    "632": {
+    "Age": 22,
+    "Player": "Killian Tillie",
+    "Position": "C",
+    "Teams": "MEM"
+    },
+    "633": {
+    "Age": 22,
+    "Player": "Xavier Tillman Sr.",
+    "Position": "PF",
+    "Teams": "MEM"
+    },
+    "634": {
+    "Age": 35,
+    "Player": "Anthony Tolliver",
+    "Position": "PF",
+    "Teams": "PHI"
+    },
+    "635": {
+    "Age": 22,
+    "Player": "Obi Toppin",
+    "Position": "PF",
+    "Teams": "NYK"
+    },
+    "636": {
+    "Age": 27,
+    "Player": "Juan Toscano-Anderson",
+    "Position": "SG",
+    "Teams": "GSW"
+    },
+    "637": {
+    "Age": 28,
+    "Player": "Axel Toupane",
+    "Position": "SF",
+    "Teams": "MIL"
+    },
+    "638": {
+    "Age": 25,
+    "Player": "Karl-Anthony Towns",
+    "Position": "C",
+    "Teams": "MIN"
+    },
+    "639": {
+    "Age": 22,
+    "Player": "Gary Trent Jr.",
+    "Position": "SG",
+    "Teams": "TOT"
+    },
+    "640": {
+    "Age": 22,
+    "Player": "Gary Trent Jr.",
+    "Position": "SG",
+    "Teams": "POR"
+    },
+    "641": {
+    "Age": 22,
+    "Player": "Gary Trent Jr.",
+    "Position": "SG",
+    "Teams": "TOR"
+    },
+    "642": {
+    "Age": 35,
+    "Player": "P.J. Tucker",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "643": {
+    "Age": 35,
+    "Player": "P.J. Tucker",
+    "Position": "PF",
+    "Teams": "HOU"
+    },
+    "644": {
+    "Age": 35,
+    "Player": "P.J. Tucker",
+    "Position": "PF",
+    "Teams": "MIL"
+    },
+    "645": {
+    "Age": 23,
+    "Player": "Rayjon Tucker",
+    "Position": "PG",
+    "Teams": "PHI"
+    },
+    "646": {
+    "Age": 24,
+    "Player": "Myles Turner",
+    "Position": "C",
+    "Teams": "IND"
+    },
+    "647": {
+    "Age": 28,
+    "Player": "Jonas Valančiūnas",
+    "Position": "C",
+    "Teams": "MEM"
+    },
+    "648": {
+    "Age": 27,
+    "Player": "Denzel Valentine",
+    "Position": "SG",
+    "Teams": "CHI"
+    },
+    "649": {
+    "Age": 21,
+    "Player": "Jarred Vanderbilt",
+    "Position": "PF",
+    "Teams": "MIN"
+    },
+    "650": {
+    "Age": 26,
+    "Player": "Fred VanVleet",
+    "Position": "SG",
+    "Teams": "TOR"
+    },
+    "651": {
+    "Age": 38,
+    "Player": "Anderson Varejão",
+    "Position": "C",
+    "Teams": "CLE"
+    },
+    "652": {
+    "Age": 20,
+    "Player": "Devin Vassell",
+    "Position": "SF",
+    "Teams": "SAS"
+    },
+    "653": {
+    "Age": 24,
+    "Player": "Gabe Vincent",
+    "Position": "PG",
+    "Teams": "MIA"
+    },
+    "654": {
+    "Age": 25,
+    "Player": "Noah Vonleh",
+    "Position": "PF",
+    "Teams": "BRK"
+    },
+    "655": {
+    "Age": 30,
+    "Player": "Nikola Vučević",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "656": {
+    "Age": 30,
+    "Player": "Nikola Vučević",
+    "Position": "C",
+    "Teams": "ORL"
+    },
+    "657": {
+    "Age": 30,
+    "Player": "Nikola Vučević",
+    "Position": "C",
+    "Teams": "CHI"
+    },
+    "658": {
+    "Age": 24,
+    "Player": "Dean Wade",
+    "Position": "PF",
+    "Teams": "CLE"
+    },
+    "659": {
+    "Age": 23,
+    "Player": "Moritz Wagner",
+    "Position": "C",
+    "Teams": "TOT"
+    },
+    "660": {
+    "Age": 23,
+    "Player": "Moritz Wagner",
+    "Position": "C",
+    "Teams": "WAS"
+    },
+    "661": {
+    "Age": 23,
+    "Player": "Moritz Wagner",
+    "Position": "C",
+    "Teams": "BOS"
+    },
+    "662": {
+    "Age": 23,
+    "Player": "Moritz Wagner",
+    "Position": "C",
+    "Teams": "ORL"
+    },
+    "663": {
+    "Age": 30,
+    "Player": "Kemba Walker",
+    "Position": "PG",
+    "Teams": "BOS"
+    },
+    "664": {
+    "Age": 22,
+    "Player": "Lonnie Walker IV",
+    "Position": "SG",
+    "Teams": "SAS"
+    },
+    "665": {
+    "Age": 30,
+    "Player": "John Wall",
+    "Position": "PG",
+    "Teams": "HOU"
+    },
+    "666": {
+    "Age": 31,
+    "Player": "Brad Wanamaker",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "667": {
+    "Age": 31,
+    "Player": "Brad Wanamaker",
+    "Position": "PG",
+    "Teams": "GSW"
+    },
+    "668": {
+    "Age": 31,
+    "Player": "Brad Wanamaker",
+    "Position": "PG",
+    "Teams": "CHO"
+    },
+    "669": {
+    "Age": 27,
+    "Player": "T.J. Warren",
+    "Position": "SF",
+    "Teams": "IND"
+    },
+    "670": {
+    "Age": 22,
+    "Player": "P.J. Washington",
+    "Position": "PF",
+    "Teams": "CHO"
+    },
+    "671": {
+    "Age": 26,
+    "Player": "Yuta Watanabe",
+    "Position": "SF",
+    "Teams": "TOR"
+    },
+    "672": {
+    "Age": 23,
+    "Player": "Tremont Waters",
+    "Position": "PG",
+    "Teams": "BOS"
+    },
+    "673": {
+    "Age": 26,
+    "Player": "Paul Watson",
+    "Position": "SF",
+    "Teams": "TOR"
+    },
+    "674": {
+    "Age": 24,
+    "Player": "Quinndary Weatherspoon",
+    "Position": "SG",
+    "Teams": "SAS"
+    },
+    "675": {
+    "Age": 32,
+    "Player": "Russell Westbrook",
+    "Position": "PG",
+    "Teams": "WAS"
+    },
+    "676": {
+    "Age": 20,
+    "Player": "Coby White",
+    "Position": "PG",
+    "Teams": "CHI"
+    },
+    "677": {
+    "Age": 26,
+    "Player": "Derrick White",
+    "Position": "SG",
+    "Teams": "SAS"
+    },
+    "678": {
+    "Age": 31,
+    "Player": "Hassan Whiteside",
+    "Position": "C",
+    "Teams": "SAC"
+    },
+    "679": {
+    "Age": 27,
+    "Player": "Greg Whittington",
+    "Position": "PF",
+    "Teams": "DEN"
+    },
+    "680": {
+    "Age": 25,
+    "Player": "Andrew Wiggins",
+    "Position": "PF",
+    "Teams": "GSW"
+    },
+    "681": {
+    "Age": 22,
+    "Player": "Grant Williams",
+    "Position": "PF",
+    "Teams": "BOS"
+    },
+    "682": {
+    "Age": 26,
+    "Player": "Kenrich Williams",
+    "Position": "PF",
+    "Teams": "OKC"
+    },
+    "683": {
+    "Age": 34,
+    "Player": "Lou Williams",
+    "Position": "PG",
+    "Teams": "TOT"
+    },
+    "684": {
+    "Age": 34,
+    "Player": "Lou Williams",
+    "Position": "PG",
+    "Teams": "LAC"
+    },
+    "685": {
+    "Age": 34,
+    "Player": "Lou Williams",
+    "Position": "PG",
+    "Teams": "ATL"
+    },
+    "686": {
+    "Age": 19,
+    "Player": "Patrick Williams",
+    "Position": "PF",
+    "Teams": "CHI"
+    },
+    "687": {
+    "Age": 23,
+    "Player": "Robert Williams",
+    "Position": "C",
+    "Teams": "BOS"
+    },
+    "688": {
+    "Age": 20,
+    "Player": "Zion Williamson",
+    "Position": "PF",
+    "Teams": "NOP"
+    },
+    "689": {
+    "Age": 24,
+    "Player": "D.J. Wilson",
+    "Position": "PF",
+    "Teams": "TOT"
+    },
+    "690": {
+    "Age": 24,
+    "Player": "D.J. Wilson",
+    "Position": "PF",
+    "Teams": "MIL"
+    },
+    "691": {
+    "Age": 24,
+    "Player": "D.J. Wilson",
+    "Position": "PF",
+    "Teams": "HOU"
+    },
+    "692": {
+    "Age": 24,
+    "Player": "Dylan Windler",
+    "Position": "SF",
+    "Teams": "CLE"
+    },
+    "693": {
+    "Age": 24,
+    "Player": "Justise Winslow",
+    "Position": "SF",
+    "Teams": "MEM"
+    },
+    "694": {
+    "Age": 22,
+    "Player": "Cassius Winston",
+    "Position": "PG",
+    "Teams": "WAS"
+    },
+    "695": {
+    "Age": 19,
+    "Player": "James Wiseman",
+    "Position": "C",
+    "Teams": "GSW"
+    },
+    "696": {
+    "Age": 25,
+    "Player": "Christian Wood",
+    "Position": "C",
+    "Teams": "HOU"
+    },
+    "697": {
+    "Age": 21,
+    "Player": "Robert Woodard II",
+    "Position": "SF",
+    "Teams": "SAC"
+    },
+    "698": {
+    "Age": 28,
+    "Player": "Delon Wright",
+    "Position": "SG-PG",
+    "Teams": "TOT"
+    },
+    "699": {
+    "Age": 28,
+    "Player": "Delon Wright",
+    "Position": "SG",
+    "Teams": "DET"
+    },
+    "700": {
+    "Age": 28,
+    "Player": "Delon Wright",
+    "Position": "PG",
+    "Teams": "SAC"
+    },
+    "701": {
+    "Age": 32,
+    "Player": "Thaddeus Young",
+    "Position": "PF",
+    "Teams": "CHI"
+    },
+    "702": {
+    "Age": 22,
+    "Player": "Trae Young",
+    "Position": "PG",
+    "Teams": "ATL"
+    },
+    "703": {
+    "Age": 28,
+    "Player": "Cody Zeller",
+    "Position": "C",
+    "Teams": "CHO"
+    },
+    "704": {
+    "Age": 23,
+    "Player": "Ivica Zubac",
+    "Position": "C",
+    "Teams": "LAC"
+    }
+    }
